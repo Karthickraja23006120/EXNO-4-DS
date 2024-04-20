@@ -24,13 +24,12 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-      Name: Karthick Raja K
-      Register No:212223240066
+      
       ![Screenshot 2024-04-20 103010](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/09c4684a-acd7-4d82-9a3b-3b83e3d36234)
-       ![Screenshot 2024-04-20 103021](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/2cd0c9d7-4b38-4384-9f55-aaf3a896e20d)
-       ![Screenshot 2024-04-20 103033](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/afcf27ca-7ae6-412b-a03b-be0c22d9e2d2)
-       ![Screenshot 2024-04-20 103053](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/85acafda-8d72-44ea-a18a-ad6c1f41389a)
-       ![Screenshot 2024-04-20 103109](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/0e58bce0-c8c0-406a-a0ea-421f96ef354f)
+      ![Screenshot 2024-04-20 103021](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/2cd0c9d7-4b38-4384-9f55-aaf3a896e20d)
+      ![Screenshot 2024-04-20 103033](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/afcf27ca-7ae6-412b-a03b-be0c22d9e2d2)
+      ![Screenshot 2024-04-20 103053](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/85acafda-8d72-44ea-a18a-ad6c1f41389a)
+      ![Screenshot 2024-04-20 103109](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/0e58bce0-c8c0-406a-a0ea-421f96ef354f)
       ![Screenshot 2024-04-20 103126](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/7a64a154-3491-42de-9eda-5a60ab39b881)
       ![Screenshot 2024-04-20 103137](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/eebb3c92-748e-494b-a206-a89342157210)
       ![Screenshot 2024-04-20 103145](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/7550c102-6515-45c7-b25c-011db7643d38)
