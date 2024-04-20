@@ -25,27 +25,27 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ![Screenshot 2024-04-20 103010](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/d1782764-2dce-4d2b-bbb6-7052d6a793f5)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
+![Screenshot 2024-04-20 103021](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/30ace29a-dc2a-4a70-8fbf-451ffd69f038)
+![Screenshot 2024-04-20 103033](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/ab4346fe-821a-4732-a964-0a198a70d566)
+![Screenshot 2024-04-20 103053](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/09423aa6-faab-416d-ab65-4f8b80e99b3b)
+![Screenshot 2024-04-20 103109](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/1d1a238d-c3d6-4411-8363-56939a907533)
+![Screenshot 2024-04-20 103126](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/db22c73c-41e5-40ef-b9d0-60fcbf47e511)
+![Screenshot 2024-04-20 103137](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/e2137cbc-cbd4-4be2-b9d5-ce4e624c697f
+![Screenshot 2024-04-20 103145](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/e5acb890-361a-4ed4-9329-a953da0a3e72)
+![Screenshot 2024-04-20 103152](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/30feda1f-6af7-421a-ade9-a19eee301070)
+![Screenshot 2024-04-20 103202](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/64c76daf-a636-4fb1-a096-fbb5e76349e6)
+![Screenshot 2024-04-20 103212](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/135f4fdd-f370-4256-8890-1272fe435f0d)
+![Screenshot 2024-04-20 103220](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/33fa640d-42db-484b-9793-8dfdb4291066)
+![Screenshot 2024-04-20 103228](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/505036fb-d5eb-4a45-9894-05926417e8e8)
+![Screenshot 2024-04-20 103235](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/8f83ed22-a2cb-4567-b25c-3dfdd23f505f)
+![Screenshot 2024-04-20 103245](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/adacaecb-a56d-479b-a5c4-61cbcaecf177)
+![Screenshot 2024-04-20 103257](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/d84dad9a-2db2-4784-b04c-037ecbbe6ae0)
+![Screenshot 2024-04-20 103305](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/b83ba484-7b4f-49fc-b8d2-9ad57381f87e)
+![Screenshot 2024-04-20 103313](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/b9c54c71-f940-4c95-8a9f-5a4da7009813)
+![Screenshot 2024-04-20 103323](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/4763d708-e769-4a9c-abb6-30739c96f184)
+![Screenshot 2024-04-20 103336](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/87d1772a-2cc2-4b6f-bc7a-57f023f28475)
+![Screenshot 2024-04-20 103345](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/ffd8cfe3-f899-49fe-bdad-404690cb0111)
+![Screenshot 2024-04-20 103357](https://github.com/Karthickraja23006120/EXNO-4-DS/assets/139335315/fca5db71-b869-4b1c-a3bf-d13c34e34f3d
 
 # RESULT:
          Thus feature scaling and selection is performed.
